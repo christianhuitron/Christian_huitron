@@ -11,11 +11,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianhuitron&theme=dracula&column=7" alt="Mis trofeos en Github" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 I am currently studying at [Escuela Superior de Ingenieria y Arquitectura]
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am currently in the race **Civil Engineering**
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **huitronrosaleschristian@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
