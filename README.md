@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+![Christian Banner Image](https://github.com/christianhuitron/Christian_huitron/blob/main/carta_presentacion.png)
 
 <!--Night Owl image-->
 <div>
@@ -7,20 +7,19 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Chris! 
+*Civil Engineer (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a civil engineer, passionate about automation and data analysis. My focus is on optimizing construction processes and decisions </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
+- 🏙 Currently, I work as a Civil Works Project Engineer at Rocher Ingeniería, focusing on automating complex design and calculation tasks
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://christianhuitron.github.io) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -42,7 +41,7 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
+  <a href="https://github.com/christianhuitron/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
